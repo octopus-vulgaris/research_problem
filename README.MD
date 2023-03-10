@@ -19,7 +19,7 @@ $$L_d = \sqrt{L_x^2 + (L_y - d)^2}$$
 $d$ -- displacement from a position of relaxation
 
 The force induced by spring deformation is a linear function:
-$$ F=kx$$
+$$F=kx$$
 where 
 
 $k$ -- spring stiffness
