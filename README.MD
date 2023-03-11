@@ -37,6 +37,8 @@ For the sake of clarity, the ratio $(L_y - d)/L_d$ can be expressed as $sin(\alp
 
 The last equation represent the Force Displacement curve (FD-curve) of the piston.
 
+![FD-curve](/img/Figure_1.png)
+
 ## Two piston system behave
 
 To understand the kinematics of the system, we will use the principle of equilibrium of Y-forces. We will vary the position of the second piston and, for each position, find the coordinate of the first piston such that the Y-forces induced by the deformed springs are in equilibrium.
@@ -53,8 +55,19 @@ At the position shown on picture above we can see that the system have three poi
 
 ![figure](/img/fig_4.png)
 
-When the curve of the 1st piston position deforms to a single-root form, the formation of a new root occurs on the opposite branch, and the solution jumps to the right father point. The behavior of the system is specific to this threshold. The switch triggers a change in the force direction on the second piston, which in turn causes the springs to move the system towards the relaxed down position.
+When the curve of the 1st piston position deforms to a single-root form, the formation of a new root occurs on the opposite branch, and the solution jumps to the right father point. The behavior of the system is specific to this threshold. The switch triggers a change in the force direction on the second piston, which in turn causes the springs to move the system towards the relaxed down position. Similar behavior can be observed when the system reaches the first potential threshold, but without the first piston jumping. Another specific feature of the system is that the potential barrier has a maximum derivative before reaching its own maximum when the system starts to move towards the next stable state.
+
+The system has four stable states, characterized by equal spring lengths. The coordinates of these states are
+$$(y_1, y_2) \in \{ (1, 2), (-1, 0), (-1, -2), (1, 0) \}$$
+
+The graph of states is shown below.
+
+![graph](/img/graph.png)
+
 
 ## Conclusion
 
 The system with a free massless piston and two springs have described. The specific of the kinematics revealed as switching behave has obtained.
+
+## Application
+
