@@ -57,4 +57,4 @@ When the curve of the 1st piston position deforms to a single-root form, the for
 
 ## Conclusion
 
-The system with a free massless piston and two spring have described. The specific of the kinematics revealed as switching behave have obtained.
+The system with a free massless piston and two springs have described. The specific of the kinematics revealed as switching behave have obtained.
