@@ -1,5 +1,5 @@
 # Report
-
+_play `research_problem.ipynb`_
 
 ## Abstract
 Here is a __sample of technical writing__ from a research problem report. The behavior of a mechanical system was considered, which consisted of two pistons linked by springs with different stiffness. The movement of the pistons was constrained in the vertical direction. As a result, the relationship between the displacement of the second piston and the first piston was described.
