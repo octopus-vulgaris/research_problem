@@ -1,4 +1,7 @@
 # Report
+
+https://github.com/octopus-vulgaris/research_problem
+
 _play `research_problem.ipynb`_
 
 ## Abstract
@@ -71,3 +74,5 @@ The system with a free massless piston and two springs have described. The speci
 
 ## Application
 
+Hmmm.... At this point, I cannot exactly imagine how it may be used to create passive functionality. However, if extra conditions are known, this nonlinearity, with some modification, can be used for specific tasks. At the very least, we need to know which parameter needs control, whether it be the position of pistons, force acting on pistons, configuration of the system, switches between stable states, etc.
+Undoubtedly, it may be used for modeling objects that behave similarly, as well as for non-linear suspension systems and for dampening shocks and vibrations.
